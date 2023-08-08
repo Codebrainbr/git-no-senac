@@ -1,8 +1,8 @@
-# git-no-senac
+## git-no-senac
 Repositório criado para auxiliar com alguns comandos úteis do Git.
 
 
-# Lista de comandos 
+# Lista de comandos :computer:
 
 
 | Comando      | Descrição | 
